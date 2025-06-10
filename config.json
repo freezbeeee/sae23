@@ -1,0 +1,54 @@
+{
+    "pairs": [
+        {
+            "salle": "B110",
+            "capteur": "humidity"
+        },
+        {
+            "salle": "E003",
+            "capteur": "humidity"
+        },
+        {
+            "salle": "Foyer-personnels",
+            "capteur": "temperature"
+        },
+        {
+            "salle": "E105",
+            "capteur": "co2"
+        }
+    ],
+    "salles": [
+        "B001",
+        "B101",
+        "B102",
+        "B105",
+        "B106",
+        "B109",
+        "B110",
+        "B112",
+        "B212",
+        "B234",
+        "C001",
+        "C002",
+        "C004",
+        "C006",
+        "C102",
+        "E001",
+        "E003",
+        "E006",
+        "E007",
+        "E100",
+        "E104",
+        "E105",
+        "Foyer-etudiants-entr\u00e9e",
+        "Foyer-personnels",
+        "hall-amphi",
+        "hall-entr\u00e9e-principale"
+    ],
+    "capteurs": [
+        "co2",
+        "humidity",
+        "illumination",
+        "temperature"
+    ]
+}
