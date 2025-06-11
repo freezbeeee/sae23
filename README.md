@@ -8,3 +8,6 @@ MQTT to Database Script (Bash) - Setup Instructions
         sudo apt-get update
         sudo apt-get install mosquitto-clients mysql-client jq
 
+Website :
+Admin : admin:admin123
+Gestionnaire : gestio:gestio123
